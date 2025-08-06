@@ -1,1 +1,2 @@
-Edit this file to change your mod's support info, or delete it if you don't need it.
+Ko-Fi (NOT WORKING RIGHT NOW!) - https://ko-fi.com/ngrtn
+DonationAlerts - https://donationalerts.com/r/ngrtn

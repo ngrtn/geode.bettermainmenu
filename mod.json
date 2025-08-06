@@ -11,4 +11,7 @@
 	"version": "v1.0.0",
 	"developer": "ngrtn",
 	"description": "Change main menu song or textures in game!"
+	"resources": [
+    		"customMenuBtn.png"
+	]
 }
